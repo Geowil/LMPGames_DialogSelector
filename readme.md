@@ -132,6 +132,10 @@ Any plugin that overrides or aliases Window_Base.convertEscapeCharacters may con
 
 
 ## Change Log
+- Version 0.5.1
+  - Fixes
+    - Fixed an issue where NPC Ids over 1 digit were being cut off by the plugin command
+
 - Version 0.5
   - New Features
     - Support for text codes within the dialog configuration.
