@@ -135,7 +135,7 @@ Game_Interpreter.prototype.pluginCommand = function(command, args){
 				$gameSystem.toggleDialogSystem(matches[1]);
 			}
 		} else if (command.match(/LMPGames.DialogSelector[ ]GetDialog[ ](\d+)[ ](\d+)/)) {
-			matches = ((/LMPGames.DialogSelector[ ]GetDialog[ ](\d+)[ ](\d)/).exec(command) || []);
+			matches = ((/LMPGames.DialogSelector[ ]GetDialog[ ](\d+)[ ](\d+)/).exec(command) || []);
 			if (matches.length > 2) {
 				$gameSystem.setDialogVariable(matches[1], matches[2]);
 			}
