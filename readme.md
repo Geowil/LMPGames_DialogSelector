@@ -5,9 +5,9 @@ The Dialog Selector plugin allows you to create a rudimentary branching dialog s
 
 Plugin Version: 0.5
 
-[Plugin Demo](http://www.lmpgames.com/plugins/demos/LMPGames_DialogSelector_Demo_V0.5.zip)
+[Plugin Demo](http://www.lmpgames.com/RMMV/Plugins/Demos/LMPGames_DialogSelector_Demo_V0.5.1.zip)
 
-[Plugin Project](http://www.lmpgames.com/plugins/projects/LMPGames_DialogSelector_Project_V0.5.zip)
+[Plugin Project](http://www.lmpgames.com/RMMV/Plugins/Projects/LMPGames_DialogSelector_Project_V0.5.1.zip)
 
 
 ## Installing the plugin
