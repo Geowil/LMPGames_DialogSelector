@@ -106,9 +106,9 @@ This is the final level of configuration for the plugin.  To configure dialog fo
 
 Dialog is the text that the NPC should use when the conditions are met.
 
-Conditions is the list of switches that should be turned on in order to the NPC to use this specific dialog.  If there should be no conditions, such as for setting up default text, then leave the Conditions setting set to the default value.
+Conditions is the list of switches that should be turned on in order to the NPC to use this specific dialog.  If there should be no conditions, such as for setting up default text, then leave the Conditions setting set to the default value.  Please be aware that conditions in the Conditions setting are checked in reverse, just like event pages.  If you place an dialog setting with no conditions at the bottom of the conditions list, that is the only dialog that will be displayed by the NPC.
 
-When adding Conditions, you will be asked to select the Switch from a drop down.  It is advisable to separate your dialog switches from your other switches and to name them at this point so that they can easiy be found and understood later when setting up any additional event confgiration you may require.
+When adding Conditions, you will be asked to select the Switch from a drop down.  It is advisable to separate your dialog switches from your other switches and to name them at this point so that they can easily be found and understood later when setting up any additional event configuration that you may require.
 
 ##### Text Codes
 Text codes are supported in dialog text configured within the plugin.
