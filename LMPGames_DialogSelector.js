@@ -44,7 +44,7 @@
 * @param Unconfigured NPC Dialog
 * @desc The dialog returned when an invlaid map or npc is used with the system.
 * @type text
-* @default <Wordwrap>This map or npc has not been configured in the Dialog Selector plugin configuration data.\nTest new line
+* @default This map or npc has not been configured in the Dialog Selector plugin configuration data.
 * @parent Dialog Settings
 *
 *
