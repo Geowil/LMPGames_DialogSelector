@@ -122,11 +122,11 @@ Text codes are supported in dialog text configured within the plugin.
 - Ability to turn on or off YanFly_MessageCore support
 - Ability to turn on or off Unconfigured NPC Dialog setting
 - Effeciency enhancement to load only the data from the map you are currently on
-- New Setting
-	Data Load Mode
-		First mode will load the data from the Map Data plugin setting
-		Second mode will allow you to load data from a file
-			Details on file structure and how these files line up with map/npc ids tbd but the goal is to reduce the complexity to use the plugin down to nearly 0.
+- New Setting<br>
+  - Data Load Mode<
+    - First mode will load the data from the Map Data plugin setting
+    - Second mode will allow you to load data from a file
+      - Details on file structure and how these files line up with map/npc ids tbd but the goal is to reduce the complexity to use the plugin down to nearly 0.
 
 
 ## Possible Enhancements
